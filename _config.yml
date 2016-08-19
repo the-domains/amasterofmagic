@@ -14,3 +14,9 @@ layout_spectrum: 0.22033543838188052
 name: amasterofmagic
 title: Welcome
 description: we've been waiting for you...
+navigation:
+  - name: >-
+      David Lee Brown Actor Magician Martial Artist Stuntman Police Military
+      Sanford Meisner Trained Actor
+    id: bc35e987-07b9-4767-bd8d-638fdc83a10b
+    type: content
