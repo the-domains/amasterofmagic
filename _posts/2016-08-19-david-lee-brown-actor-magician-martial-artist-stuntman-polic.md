@@ -19,19 +19,17 @@ keywords:
   - '2001'
 description: David Lee Brown Actor Magician Martial Artist Stuntman
 app_links: []
-isBasedOnUrl: 'http://www.amasterofmagic.com/'
 title: >-
   David Lee Brown Actor Magician Martial Artist Stuntman Police Military Sanford
   Meisner Trained Actor
-datePublished: '2016-08-19T02:01:43.191Z'
-dateModified: '2016-08-19T02:01:16.626Z'
+datePublished: '2016-08-19T02:11:42.315Z'
+dateModified: '2016-08-19T02:11:41.506Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-19-david-lee-brown-actor-magician-martial-artist-stuntman-polic.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: david-lee-brown-actor-magician-martial-artist-stuntman-polic/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
